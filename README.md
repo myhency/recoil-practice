@@ -32,4 +32,4 @@ yarn start
 
 - [http://localhost:3000](http://localhost:3000) 👉 [learnrecoil.com](https://learnrecoil.com/) 강의 예제
 - [http://localhost:3000/examples/atomFamily](http://localhost:3000/examples/atomFamily) 👉 AtomFamily, AtomSelector
-  - [노션정리](https://www.notion.so/React-Native-TIL_Recoil_state_-2_230118-0cfeb1cf4eae4a7783e7eb1a2079d104)
+  - [노션정리](https://cyclic-yard-58c.notion.site/React-Native-TIL_Recoil_state_-2_230118-0cfeb1cf4eae4a7783e7eb1a2079d104)
